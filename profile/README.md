@@ -48,33 +48,6 @@ Interested in seeing Sr. Ventas in action? [Schedule a demo](https://calendly.co
 
 ---
 
-## **Repositories**
-
-Here’s an overview of our repositories:
-
-- **API-Middleware:** Middleware API for seamless communication  
-  *Private, Python*
-
-- **App:** Client-facing web application  
-  *Private, TypeScript*
-
-- **API-Agents:** API for managing AI agents  
-  *Private, Python*
-
-- **API-Auth:** User account management API  
-  *Private, Python*
-
-- **Service-Sentiment:** Sentiment analysis for conversations  
-  *Private, Python*
-
-- **API-Payments:** Payment processing API  
-  *Private, Python*
-
-- **Website:** Landing page for the platform  
-  *Private, JavaScript*
-
----
-
 © 2024 - Sr. Ventas x entropía.ai
 
 For additional information or support, please visit our [terms](https://srventas.com/terms), [privacy policy](https://srventas.com/privacy), or [contact us](mailto:contacto@senorventas.com).
