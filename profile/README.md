@@ -48,6 +48,6 @@ Interested in seeing Sr. Ventas in action? [Schedule a demo](https://calendly.co
 
 ---
 
-© 2024 - Sr. Ventas x entropía.ai
+© 2025 - Sr. Ventas x entropía.ai
 
 For additional information or support, please visit our [terms](https://srventas.com/terms), [privacy policy](https://srventas.com/privacy), or [contact us](mailto:contacto@senorventas.com).
